@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+INFRARED BIRDS
 
-### More Information
+### ABOUT
 
-A place to include any other types of information that you'd like to include about yourself.
+Poetry and explorations in machine learning.
 
-### Contact me
+### CONTACT
 
-[email@domain.com](mailto:email@domain.com)
+[infraredbirds@outlook.com](mailto:infraredbirds@outlook.com)
